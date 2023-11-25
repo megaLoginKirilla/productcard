@@ -2,7 +2,7 @@
 
 
 
-![my photo]("logo.jpg")
+![my photo](logo.jpg)
 
 
 
