@@ -20,7 +20,4 @@
   }
  ```
  
-This is Unordered list:
-* [my facebook](http://github.com)
-* [my website](http://github.com)
-* [my telegram](http://github.com)
+
